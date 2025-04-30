@@ -1,3 +1,3 @@
 FROM minio/minio:latest
 
-EXPOSE 9001
+EXPOSE 9003
